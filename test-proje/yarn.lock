@@ -2816,9 +2816,9 @@ check-types@^11.1.1:
   integrity sha512-tzWzvgePgLORb9/3a0YenggReLKAIb2owL03H2Xdoe5pKcUyWRSEQ8xfCar8t2SIAuEDwtmx2da1YB52YuHQMQ==
 
 chemistdev@^1.0.0:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/chemistdev/-/chemistdev-1.0.1.tgz#d1e1dc07378b6e9f2f3b7088a429e54d3d5a6c65"
-  integrity sha512-4pABqHHrX3IwUgZGiG8nYuQ9kDex+AVeBFhA2CHGN83vhM56qEFr5pShPLLxyvj95/YJuTpdFo1eXcsJSJ1e8w==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/chemistdev/-/chemistdev-1.1.0.tgz#395b6bcb7efa0664e1a35d9c73214949098dbeb6"
+  integrity sha512-sKgh5km2Fh5m5VvfOT+RDfoYDt5hTt2xjkwXoDucwgqi8Le8cVChsx7DcIlJrWt1jKZEaCwo6yA/xSGMwMP9qg==
 
 chokidar@^3.4.2, chokidar@^3.5.3:
   version "3.5.3"
